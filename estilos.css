@@ -10,7 +10,7 @@ h1 {
 p {
     text-align: justify;
     line-height: 1.5;
-    color: cornsilk;
+    color: white;
 }
 
 .titulo {
@@ -20,6 +20,10 @@ p {
     color: lightseagreen;
 }
 
-article {
+.articulo1 {
     border: 5px dotted lightskyblue
+}
+
+.articulo2 {
+    border: 5px dashed lightgreen
 }
