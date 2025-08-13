@@ -27,3 +27,8 @@ p {
 .articulo2 {
     border: 5px dashed lightgreen
 }
+
+.articulo3 {
+    border: 5px double lightgray
+
+}
